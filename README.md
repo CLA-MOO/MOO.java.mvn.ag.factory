@@ -50,7 +50,6 @@ mvn -f app test
 ### Probar 1 test
 ```
 mvn -f app test -Dtest="AppTest#testCircle"
-mvn -f app test -Dtest="AppTest#testCircle"
 mvn -f app test -Dtest="AppTest#testElipse"
 mvn -f app test -Dtest="AppTest#testCuadrado‎"
 mvn -f app test -Dtest="AppTest#‎testRectangulo‎"
