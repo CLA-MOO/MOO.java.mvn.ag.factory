@@ -51,8 +51,8 @@ mvn -f app test
 ```
 mvn -f app test -Dtest="AppTest#testCircle"
 mvn -f app test -Dtest="AppTest#testElipse"
-mvn -f app test -Dtest="AppTest#testCuadrado‎"
-mvn -f app test -Dtest="AppTest#‎testRectangulo‎"
+mvn -f app test -Dtest="AppTest#testCuadrado"
+mvn -f app test -Dtest="AppTest#testRectangulo"
 ```
 ### Ejecutar App
 ```
