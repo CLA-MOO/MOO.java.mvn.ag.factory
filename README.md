@@ -1,5 +1,7 @@
 # Proyecto (Maven) - Figuras
 
+![Figuras geométricas](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Similar-geometric-shapes.svg/960px-Similar-geometric-shapes.svg.png)
+
 Diseña un sistema para manejar figuras geométricas: círculos, elipses, rectángulos y cuadrados. Usa el patrón de diseño **Factory Method** acorde a los requisitos de diseño siguientes:
 
 * Se tendrá una interface **Figura** para calcular el área y el perímetro de cada figura geométrica.
