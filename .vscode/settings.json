@@ -1,5 +1,5 @@
 {
     "github.copilot.enable": {
-        "cpp": false
+        "java": false
     }
 }
