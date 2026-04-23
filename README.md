@@ -33,22 +33,22 @@ El sistema calcula y genera guías para distintos tipos de envío: local, nacion
 
 ```
 --- Escenario 1: Envio Local con Sobre ---
-=== Registrando Envío ===
-Guía:     GUIA-LOCAL-JUANPEREZ-50
+=== Registrando Envio ===
+Guia:     GUIA-LOCAL-JUANPEREZ-50
 Costo:    $7.50
 Embalaje: Sobre
 ========================
 
 --- Escenario 2: Envio Nacional con Caja ---
-=== Registrando Envío ===
-Guía:     GUIA-NAC-MARIAGARCIA-200
+=== Registrando Envio ===
+Guia:     GUIA-NAC-MARIAGARCIA-200
 Costo:    $90.00
 Embalaje: Caja
 ========================
 
 --- Escenario 3: Envio Internacional con Tubo ---
-=== Registrando Envío ===
-Guía:     GUIA-INTL-CARLOSRUIZ-120
+=== Registrando Envio ===
+Guia:     GUIA-INTL-CARLOSRUIZ-120
 Costo:    $144.00
 Embalaje: Tubo
 ========================
